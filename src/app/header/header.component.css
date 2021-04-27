@@ -1,0 +1,61 @@
+/* MENU */
+.navbar {
+    
+    height: 200px;
+   /*  background: url("/src/assets/images/FDcinema.jpg") no-repeat scroll center top / cover ;
+    position: relative;
+   */background-color: rgba(0, 0, 0, 0.9);
+    font-size: 12px;
+    border-bottom: 1px solid #fff;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-align: center;
+    
+}
+.nav-pills .nav-link{
+    color: #fff !important;
+    text-align: center;
+}
+.nav-pills .nav-link.active,  .nav-pills .nav-link:hover{
+    transition: 1.5s;
+    color: #d82c2e !important;
+    background-color: #fff !important;
+}
+.navbar-toggler{
+    color: #fff !important;
+    border-style: none;
+}
+
+
+.top-nav-collapse .navbar-brand 
+{
+    height: 40px;
+    line-height: 18px;
+    padding: 8px;
+}
+.navbar-brand
+{
+    border: 3px solid;
+    border-color: red;
+    font-size: 30px;
+    font-weight: 700;
+    padding: 6px;
+}
+
+.link-3 {
+    transition: 0.9s;
+    color: #d82c2e;
+    text-decoration: none;
+    padding: 0 5px;
+    margin: 0 5px;
+  }
+  .link-3:hover {
+    background-color: #ffffff;
+    color: #EEA200;
+    padding: 12px 5px;
+  }
+
+.flix{
+    color: red;
+}

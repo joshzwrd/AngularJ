@@ -1,0 +1,72 @@
+/* GENERAL */ 
+
+body
+{
+        font-family: 'Lato', sans-serif;
+}
+
+h1,h2,h3,h4,h5,h6
+{
+    font-weight: bold;
+    color: #080830;
+}
+
+img
+{
+    max-width: 100%;
+    height: auto;
+}
+
+section
+{
+    padding: 45px 0 80px 0;
+}
+
+section .heading
+{
+    text-align: center;
+    padding-bottom: 40px;
+
+}
+
+section .heading h3
+{
+    text-transform: uppercase;
+
+}
+
+.red-divider
+{
+    width: 100px;
+    height: 2px;
+    background: #d82c2e;
+    margin: 10px auto;
+}
+
+.white-divider
+{
+    width: 100px;
+    height: 2px;
+    background:white;
+    margin: 10px auto;
+}
+ul,ol
+{
+    list-style: none;
+}
+
+.orange
+{
+    color: #d82c2e;
+}
+
+h1
+{
+    text-transform: uppercase;
+}
+
+.article{
+    float: right;
+    margin-left: 40px;
+    margin-top: 40px;
+}
